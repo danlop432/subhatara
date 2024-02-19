@@ -90,8 +90,11 @@ font-weight: bold;
 }
 
 .about{
-    background-color: #7f7f7f17;
+   
     display: flex; 
+}
+.whoweare{
+   background-color: #7f7f7f17;
 }
 .picture{
     padding-left: 20px;
